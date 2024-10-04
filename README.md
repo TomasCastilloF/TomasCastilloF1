@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 </table>
 
-Ingeniero Civil Industrial con enfoque en ciencia de datos, con una base teórica sólida y afinando las habilidades prácticas a través de proyectos que iré compartiendo. Creo que la mejor forma de aprender es enseñando, así que también publicaré contenido útil para explorar o refrescar conceptos de ciencia de datos. ¡Aprendiendo a aprender, siempre en movimiento!
+Científico de datos, con una muy buena base teórica y afinando las habilidades prácticas a través de proyectos que iré compartiendo. Creo que la mejor forma de aprender es enseñando, así que también publicaré contenido útil para explorar o refrescar conceptos de ciencia de datos. ¡Aprendiendo a aprender, siempre en movimiento!
 <br>
 
 - 🔭 Actualmente estoy trabajando en mejorar mis habilidades como científico de datos.
